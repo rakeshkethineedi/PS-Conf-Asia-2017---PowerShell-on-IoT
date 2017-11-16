@@ -1,5 +1,5 @@
 # PS Conf Aisa 2017 - PowerShell on IoT
-This repo contains the resources I used during my session on using PowerShell on IoT, at the Powershell Conference Asia 2017.
+This repo contains the resources I used during my session on using PowerShell on IoT, at the Powershell Conference Asia 2017, held at Microsoft, Singapore. http://psconf.asia/
 
 Raspberry Pi setup using Windows 10 IoT core reference - https://developer.microsoft.com/en-us/windows/iot/getstarted
 
